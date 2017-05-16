@@ -1,0 +1,22 @@
+body{
+	background-color: green;
+	font-family: 'Barrio', cursive;
+}
+#menuPrincipal{
+	width: 80%;
+	margin: 0 auto;
+	background-color: whitesmoke;
+}
+#menuPrincipal ul{
+	list-style: none;
+	padding-left: 0;
+}
+#menuPrincipal li{
+	display: inline-block;
+}
+#menuPrincipal ul li a{
+	text-decoration: none;
+	color: #484848;
+	padding: 10px 68px;
+	display: block;
+}
